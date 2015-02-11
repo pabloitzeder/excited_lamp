@@ -1,5 +1,5 @@
 #include <LiquidCrystal.h>
-LiquidCrystal lcd(13,12,11,10,9,6);
+LiquidCrystal lcd(5,12,11,10,9,6);
 const int K1 = 2; // first button
 const int K2 = 4; // second button
 const int K3 = 7; // third button
